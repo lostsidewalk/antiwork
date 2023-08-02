@@ -10,4 +10,3 @@ RateMyBoss comprehensive review system encompasses various aspects of your work-
 
 Your input has the potential to drive positive change and advocate for improved working conditions. 
 
-RateMyBoss - Because *fuck your damn corporation*. 
